@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="factorio_temp_rp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GUI-NightStylized_v1.5-1.21.2+.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Moai Studios.zip!/" />
+      <root url="jar://$PROJECT_DIR$/1.21.3-1.21.2-Template.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cubic-sun-moon-v1-8a.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

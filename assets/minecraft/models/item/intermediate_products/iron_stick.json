@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/intermediate_products/iron_stick",
+		"particle": "item/intermediate_products/iron_stick"
+	},
+	"elements": [
+		{
+			"from": [0.75, 8, 7],
+			"to": [15.25, 10, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 14, 2], "texture": "#0"},
+				"east": {"uv": [0, 8, 2, 10], "texture": "#0"},
+				"south": {"uv": [0, 2, 14, 4], "texture": "#0"},
+				"west": {"uv": [2, 8, 4, 10], "texture": "#0"},
+				"up": {"uv": [14, 6, 0, 4], "texture": "#0"},
+				"down": {"uv": [14, 6, 0, 8], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 90],
+			"translation": [0, 3, -0.75],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 90],
+			"translation": [0, 3, -0.75],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 77],
+			"translation": [7.25, 0.75, -9.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, 77],
+			"translation": [7.25, 0.75, -9.75]
+		},
+		"gui": {
+			"rotation": [22, 45, 29],
+			"translation": [0.5, -1, 1],
+			"scale": [1.1, 1.1, 1.1]
+		}
+	}
+}

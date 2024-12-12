@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/honeycomb"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1001}, "model": "item/fluid_icons/crude_oil"},
+		{"predicate": {"custom_model_data":1002}, "model": "item/fluid_icons/heavy_oil"},
+		{"predicate": {"custom_model_data":1003}, "model": "item/fluid_icons/light_oil"},
+		{"predicate": {"custom_model_data":1004}, "model": "item/fluid_icons/petroleum_gas"},
+		{"predicate": {"custom_model_data":1005}, "model": "item/fluid_icons/lubricant"},
+		{"predicate": {"custom_model_data":1006}, "model": "item/fluid_icons/sulfuric_acid"},
+		{"predicate": {"custom_model_data":1007}, "model": "item/fluid_icons/steam"},
+		{"predicate": {"custom_model_data":1008}, "model": "item/fluid_icons/water"}
+
+	]
+}

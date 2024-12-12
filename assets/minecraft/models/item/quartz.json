@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/quartz"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1001}, "model": "item/intermediate_products/iron_plate"},
+		{"predicate": {"custom_model_data":1002}, "model": "item/intermediate_products/copper_plate"},
+		{"predicate": {"custom_model_data":1003}, "model": "item/intermediate_products/iron_gear"},
+		{"predicate": {"custom_model_data":1004}, "model": "item/intermediate_products/copper_wire"},
+		{"predicate": {"custom_model_data":1005}, "model": "item/intermediate_products/electronic_circuit"},
+		{"predicate": {"custom_model_data":1006}, "model": "item/intermediate_products/advanced_circuit"},
+		{"predicate": {"custom_model_data":1007}, "model": "item/intermediate_products/processing_unit"},
+		{"predicate": {"custom_model_data":1008}, "model": "item/intermediate_products/steel_plate"},
+		{"predicate": {"custom_model_data":1009}, "model": "item/intermediate_products/iron_stick"},
+		{"predicate": {"custom_model_data":1010}, "model": "item/intermediate_products/sulfur"},
+		{"predicate": {"custom_model_data":1011}, "model": "item/intermediate_products/plastic_bar"},
+		{"predicate": {"custom_model_data":1012}, "model": "item/intermediate_products/engine_unit"},
+		{"predicate": {"custom_model_data":1013}, "model": "item/intermediate_products/electric_motor"},
+		{"predicate": {"custom_model_data":1014}, "model": "item/intermediate_products/rocket_fuel"},
+		{"predicate": {"custom_model_data":1015}, "model": "item/intermediate_products/nuclear_rocket_fuel"},
+		{"predicate": {"custom_model_data":1016}, "model": "item/intermediate_products/stone_brick"},
+		{"predicate": {"custom_model_data":1017}, "model": "item/intermediate_products/uranium_235"},
+		{"predicate": {"custom_model_data":1018}, "model": "item/intermediate_products/uranium_238"},
+		{"predicate": {"custom_model_data":1019}, "model": "item/intermediate_products/uranium_fuel_cell"},
+		{"predicate": {"custom_model_data":1020}, "model": "item/intermediate_products/depleted_uranium_fuel_cell"},
+		{"predicate": {"custom_model_data":1021}, "model": "item/intermediate_products/battery"},
+		{"predicate": {"custom_model_data":1022}, "model": "item/intermediate_products/solid_fuel"},
+		{"predicate": {"custom_model_data":1023}, "model": "item/intermediate_products/low_density_structure"}
+		
+
+	]
+}

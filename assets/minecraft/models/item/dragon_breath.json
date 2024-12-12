@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/dragon_breath"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1001}, "model": "item/science/automation_science_pack"},
+		{"predicate": {"custom_model_data":1002}, "model": "item/science/logistics_science_pack"},
+		{"predicate": {"custom_model_data":1003}, "model": "item/science/chemical_science_pack"},
+		{"predicate": {"custom_model_data":1004}, "model": "item/science/production_science_pack"},
+		{"predicate": {"custom_model_data":1005}, "model": "item/science/utility_science_pack"},
+		{"predicate": {"custom_model_data":1006}, "model": "item/science/military_science_pack"},
+		{"predicate": {"custom_model_data":1007}, "model": "item/science/space_science_pack"},
+		{"predicate": {"custom_model_data":1008}, "model": "item/science/rocket_science_pack"}
+
+	]
+}
