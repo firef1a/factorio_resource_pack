@@ -27,7 +27,6 @@
 		{"predicate": {"custom_model_data":1021}, "model": "item/intermediate_products/battery"},
 		{"predicate": {"custom_model_data":1022}, "model": "item/intermediate_products/solid_fuel"},
 		{"predicate": {"custom_model_data":1023}, "model": "item/intermediate_products/low_density_structure"}
-		
 
 	]
 }

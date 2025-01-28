@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/brick"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1001}, "model": "item/raw_materials/coal"},
+		{"predicate": {"custom_model_data":1002}, "model": "item/raw_materials/iron_ore"},
+		{"predicate": {"custom_model_data":1003}, "model": "item/raw_materials/copper_ore"},
+		{"predicate": {"custom_model_data":1004}, "model": "item/raw_materials/uranium_ore"}
+
+	]
+}
