@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/painting"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1001}, "model": "item/recipe_icons/intermediate_products_icon"},
+		
+		{"predicate": {"custom_model_data":1101}, "model": "item/recipe_icons/lubricant_research"},
+		{"predicate": {"custom_model_data":1102}, "model": "item/recipe_icons/module_research"},
+		{"predicate": {"custom_model_data":1103}, "model": "item/recipe_icons/plastic_research"},
+		{"predicate": {"custom_model_data":1104}, "model": "item/recipe_icons/uranium_reprocessing"},
+		{"predicate": {"custom_model_data":1105}, "model": "item/recipe_icons/depleted_uranium_reprocessing"}
+
+	]
+}

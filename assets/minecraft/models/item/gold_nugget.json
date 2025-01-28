@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/gold_nugget"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1001}, "model": "item/modules/speed_module_1"},
+		{"predicate": {"custom_model_data":1002}, "model": "item/modules/speed_module_2"},
+		{"predicate": {"custom_model_data":1003}, "model": "item/modules/speed_module_3"},
+		
+		{"predicate": {"custom_model_data":1011}, "model": "item/modules/efficency_module_1"},
+		{"predicate": {"custom_model_data":1011}, "model": "item/modules/efficency_module_2"},
+		{"predicate": {"custom_model_data":1011}, "model": "item/modules/efficency_module_3"},
+		
+		{"predicate": {"custom_model_data":1021}, "model": "item/modules/productivity_module_1"},
+		{"predicate": {"custom_model_data":1021}, "model": "item/modules/productivity_module_2"},
+		{"predicate": {"custom_model_data":1021}, "model": "item/modules/productivity_module_3"}
+	]
+}
