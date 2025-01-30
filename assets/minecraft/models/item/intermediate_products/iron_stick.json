@@ -40,6 +40,10 @@
 			"rotation": [0, 90, 77],
 			"translation": [7.25, 0.75, -9.75]
 		},
+		"ground": {
+			"rotation": [0, 0, 35],
+			"scale": [0.75, 0.75, 0.75]
+		},
 		"gui": {
 			"rotation": [22, 45, 29],
 			"translation": [0.5, -1, 1],

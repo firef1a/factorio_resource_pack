@@ -64,10 +64,13 @@
 			"rotation": [0, -26.75, 0],
 			"translation": [-1.75, 2.75, 2]
 		},
+		"ground": {
+			"scale": [1.25, 1.25, 1.25]
+		},
 		"gui": {
-			"rotation": [23, 4, 0],
-			"translation": [0.5, -2.25, 0],
-			"scale": [2.25, 2.25, 2.25]
+			"rotation": [31, 4, 0],
+			"translation": [0.5, -2, 0],
+			"scale": [2.5, 2.5, 2.5]
 		}
 	},
 	"groups": [

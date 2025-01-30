@@ -1,32 +1,31 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/intermediate_products/uranium_fuel_cell",
-		"particle": "item/intermediate_products/uranium_fuel_cell"
+		"1": "item/intermediate_products/used_uranium_fuel_cell"
 	},
 	"elements": [
 		{
 			"from": [6.5, 8, 6.5],
 			"to": [9.5, 12, 9.5],
 			"faces": {
-				"north": {"uv": [6, 0, 9, 4], "texture": "#0"},
-				"east": {"uv": [6, 4, 9, 8], "texture": "#0"},
-				"south": {"uv": [0, 8, 3, 12], "texture": "#0"},
-				"west": {"uv": [3, 8, 6, 12], "texture": "#0"},
-				"up": {"uv": [12, 6, 9, 3], "texture": "#0"},
-				"down": {"uv": [12, 6, 9, 9], "texture": "#0"}
+				"north": {"uv": [6, 0, 9, 4], "texture": "#1"},
+				"east": {"uv": [6, 4, 9, 8], "texture": "#1"},
+				"south": {"uv": [0, 8, 3, 12], "texture": "#1"},
+				"west": {"uv": [3, 8, 6, 12], "texture": "#1"},
+				"up": {"uv": [12, 6, 9, 3], "texture": "#1"},
+				"down": {"uv": [12, 6, 9, 9], "texture": "#1"}
 			}
 		},
 		{
 			"from": [6.4, 7.65, 6.4],
 			"to": [9.6, 12.35, 9.6],
 			"faces": {
-				"north": {"uv": [0, 0, 3, 4], "texture": "#0"},
-				"east": {"uv": [3, 0, 6, 4], "texture": "#0"},
-				"south": {"uv": [0, 4, 3, 8], "texture": "#0"},
-				"west": {"uv": [3, 4, 6, 8], "texture": "#0"},
-				"up": {"uv": [9, 11, 6, 8], "texture": "#0"},
-				"down": {"uv": [12, 0, 9, 3], "texture": "#0"}
+				"north": {"uv": [0, 0, 3, 4], "texture": "#1"},
+				"east": {"uv": [3, 0, 6, 4], "texture": "#1"},
+				"south": {"uv": [0, 4, 3, 8], "texture": "#1"},
+				"west": {"uv": [3, 4, 6, 8], "texture": "#1"},
+				"up": {"uv": [9, 11, 6, 8], "texture": "#1"},
+				"down": {"uv": [12, 0, 9, 3], "texture": "#1"}
 			}
 		}
 	],
