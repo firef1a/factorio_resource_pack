@@ -566,21 +566,21 @@
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"firstperson_righthand": {
-			"rotation": [65.73, -14.39, 28.92],
-			"translation": [1.25, 1.5, -1.75]
+			"rotation": [-12.69, 40.1, 80.4],
+			"translation": [5.75, 0, -5]
 		},
 		"firstperson_lefthand": {
-			"rotation": [65.73, -14.39, 28.92],
-			"translation": [1.25, 1.5, -1.75]
+			"rotation": [140.43, -56.16, 65.55],
+			"translation": [5.75, 0.25, -5]
 		},
 		"ground": {
 			"rotation": [90, 0, 0],
 			"scale": [1.1, 1.1, 1.1]
 		},
 		"gui": {
-			"rotation": [47, -17, 0],
-			"translation": [-0.7, -0.75, 0],
-			"scale": [1.85, 1.85, 1.85]
+			"rotation": [74.25, -17, 0],
+			"translation": [-0.65, -0.5, 0],
+			"scale": [1.8, 1.8, 1.8]
 		},
 		"head": {
 			"translation": [0, 7, 0]

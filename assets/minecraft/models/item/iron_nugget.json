@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/iron_nugget"
   },
 	"overrides": [
-		{"predicate": {"custom_model_data":1001}, "model": "item/equipment/inserter/personal_shield"},
+		{"predicate": {"custom_model_data":1001}, "model": "item/equipment/personal_shield"},
 		{"predicate": {"custom_model_data":1002}, "model": "item/equipment/personal_shield_mk2"}
 		
 
