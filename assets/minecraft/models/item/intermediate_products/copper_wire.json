@@ -312,9 +312,12 @@
 			"rotation": [29, 44, 26],
 			"translation": [7.75, -3, -9.75]
 		},
+		"ground": {
+			"scale": [0.8, 0.8, 0.8]
+		},
 		"gui": {
-			"rotation": [31, 22, 0],
-			"translation": [0.25, -1.75, 0],
+			"rotation": [47.5, 22, 0],
+			"translation": [0.25, -1, 0],
 			"scale": [1.4, 1.4, 1.4]
 		}
 	},

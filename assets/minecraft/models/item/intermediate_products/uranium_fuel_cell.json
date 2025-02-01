@@ -41,14 +41,16 @@
 			"scale": [1.1, 1.1, 1.1]
 		},
 		"firstperson_righthand": {
-			"rotation": [-3.27, 25.5, -8.9],
-			"translation": [0.75, 1, 0.75]
+			"rotation": [-2.75, 28.15, -4.6],
+			"translation": [1.5, 0, -0.75]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-3.27, 25.5, -8.9],
-			"translation": [0.75, 1, 0.75]
+			"rotation": [-2.75, 28.15, -4.6],
+			"translation": [1.5, 0, -0.75]
 		},
 		"ground": {
+			"rotation": [0, 0, 35],
+			"translation": [0.75, -1.25, 0],
 			"scale": [1.25, 1.25, 1.25]
 		},
 		"gui": {
