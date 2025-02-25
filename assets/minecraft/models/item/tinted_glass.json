@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/tinted_glass"
+  },
+	"overrides": [
+		{"predicate": {"custom_model_data":1001}, "model": "item/intermediate_products/metaglass"}
+	]
+}
